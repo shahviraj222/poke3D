@@ -5,6 +5,9 @@
   },
   "resources" : [
     {
+      "filename" : "eevee.arreferenceimage"
+    },
+    {
       "filename" : "oddish.arreferenceimage"
     }
   ]
